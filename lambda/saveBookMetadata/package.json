@@ -1,0 +1,23 @@
+{
+  "name": "savebookmetadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc -w",
+    "cdk": "cdk"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/uuid": "^9.0.2",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "uuid": "^9.0.0",
+    "xml2js": "^0.6.0"
+  }
+}

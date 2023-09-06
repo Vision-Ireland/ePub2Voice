@@ -1,0 +1,2 @@
+aws s3 rm s3://pollylambdas3triggerstack-bucket83908e77-1s5zclmc2cax1/basic-v3plus2.epub && \
+aws s3 cp /Users/cohev/Documents/ncbi/epub-samples/basic-v3plus2.epub s3://pollylambdas3triggerstack-bucket83908e77-1s5zclmc2cax1/basic-v3plus2.epub
